@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ir.toolki.ganmaz.classification.KotlinJunitTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 53.823 sec - in ir.toolki.ganmaz.classification.KotlinJunitTest
