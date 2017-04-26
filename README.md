@@ -1,5 +1,11 @@
-# Ganmaz
+<h1 align="center">Ganmaz <!-- Serve Confidently. --></h1>
+<h4 align="center"> 
 A Simple and Stupid Lazy Text Classifier
+
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
+[![Build Status](https://travis-ci.org/shahrivari/ganmaz.svg?branch=master)](https://travis-ci.org/shahrivari/ganmaz)
+
+</h4>
 
 Ganmaz is a simple text classifier which is based on k-NN (k Nearest Neighbors), the well-knonw 
 nonparametric text classification technique.
