@@ -15,6 +15,8 @@ class DataSet(documents: List<Document>) {
         documents.forEach { digestedDocs.add(DigestedDoc(it, df)) }
     }
 
+    fun size() = digestedDocs.size
+
     fun score(doc: Document): List<Pair<DigestedDoc, Double>> {
         val map: MutableMap<DigestedDoc, Double> = hashMapOf()
         val digested = DigestedDoc(doc, df)

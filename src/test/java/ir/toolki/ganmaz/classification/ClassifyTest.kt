@@ -1,9 +1,9 @@
 package ir.toolki.ganmaz.classification
 
-import ir.toolki.ganmaz.sample.News
 import com.google.common.math.Stats
+import ir.toolki.ganmaz.sample.News
+import org.assertj.core.api.Assertions.assertThat
 import org.junit.Test
-import org.assertj.core.api.Assertions.*
 import java.util.*
 
 
